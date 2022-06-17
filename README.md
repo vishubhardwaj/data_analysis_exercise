@@ -19,7 +19,7 @@ Process followed:
 1. Decided on the values to filter out (school education departments)
 2. Filtered the joined dataframe of all years according to decided values
 3. Sorted the resulting dataframe State name wise.
-4. Saved the resulting dataframe in ./output/task1.csv
+4. Saved the resulting dataframe in `./output/task1.csv`
 
 ### Estimate the share of capital expenditure.
 Assumption : Scheme codes starting with 4 and above denote capital expenditure
@@ -28,4 +28,4 @@ Process followed:
 1. Get data to be filtered according to scheme code.
 2. filter the joined dataframe with regex for capital expenditure (initiating with 4 or above).
 3. Sort State name wise.
-4. Saved the resulting dataframe in ./output/task2.csv
+4. Saved the resulting dataframe in `./output/task2.csv`
